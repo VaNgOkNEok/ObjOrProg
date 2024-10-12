@@ -1,0 +1,23 @@
+﻿  OOP_3.cpp
+X:\Users\user\source\repos\OOP_3\OOP_3.cpp(68,26): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+X:\Users\user\source\repos\OOP_3\OOP_3.cpp(78,26): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+X:\Users\user\source\repos\OOP_3\OOP_3.cpp(83,31): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+X:\Users\user\source\repos\OOP_3\OOP_3.cpp(91,27): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+X:\Users\user\source\repos\OOP_3\OOP_3.cpp(83,45): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+X:\Users\user\source\repos\OOP_3\OOP_3.cpp(97,19): warning C4101: shift_u_1: неиспользованная локальная переменная
+X:\Users\user\source\repos\OOP_3\OOP_3.cpp(97,56): warning C4101: shift_u_2: неиспользованная локальная переменная
+X:\Users\user\source\repos\OOP_3\OOP_3.cpp(97,45): warning C4101: shape_v_2: неиспользованная локальная переменная
+X:\Users\user\source\repos\OOP_3\OOP_3.cpp(97,8): warning C4101: shape_v_1: неиспользованная локальная переменная
+X:\Users\user\source\repos\OOP_3\OOP_3.cpp(362,34): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+X:\Users\user\source\repos\OOP_3\OOP_3.cpp(363,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+X:\Users\user\source\repos\OOP_3\OOP_3.cpp(197,20): warning C4101: shift_μ_1: неиспользованная локальная переменная
+X:\Users\user\source\repos\OOP_3\OOP_3.cpp(197,44): warning C4101: shape_ν_2: неиспользованная локальная переменная
+X:\Users\user\source\repos\OOP_3\OOP_3.cpp(197,68): warning C4101: scale_λ_2: неиспользованная локальная переменная
+X:\Users\user\source\repos\OOP_3\OOP_3.cpp(197,32): warning C4101: scale_λ_1: неиспользованная локальная переменная
+X:\Users\user\source\repos\OOP_3\OOP_3.cpp(197,8): warning C4101: shape_ν_1: неиспользованная локальная переменная
+X:\Users\user\source\repos\OOP_3\OOP_3.cpp(197,56): warning C4101: shift_μ_2: неиспользованная локальная переменная
+X:\Users\user\source\repos\OOP_3\OOP_3.cpp(341,14): warning C4101: r: неиспользованная локальная переменная
+X:\Users\user\source\repos\OOP_3\OOP_3.cpp(390,13): warning C4101: r: неиспользованная локальная переменная
+X:\Users\user\source\repos\OOP_3\OOP_3.cpp(507,10): warning C4101: p: неиспользованная локальная переменная
+X:\Users\user\source\repos\OOP_3\OOP_3.cpp(506,10): warning C4101: r: неиспользованная локальная переменная
+  OOP_3.vcxproj -> X:\Users\user\source\repos\OOP_3\x64\Debug\OOP_3.exe
