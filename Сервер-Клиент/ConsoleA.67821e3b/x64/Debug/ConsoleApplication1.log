@@ -1,0 +1,10 @@
+﻿  ConsoleApplication1.cpp
+x:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(47,54): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+x:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(71,17): warning C4101: bytesReceived: неиспользованная локальная переменная
+x:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(69,10): warning C4101: pBuf: неиспользованная локальная переменная
+x:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(70,10): warning C4101: el: неиспользованная локальная переменная
+x:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(131,58): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+x:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(127,10): warning C4101: pBuf: неиспользованная локальная переменная
+x:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(165,17): warning C4101: bytesReceived: неиспользованная локальная переменная
+x:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(164,10): warning C4101: pBuf: неиспользованная локальная переменная
+  ConsoleApplication1.vcxproj -> x:\Users\user\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
